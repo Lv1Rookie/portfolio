@@ -6,7 +6,7 @@ const Contact: React.FC = () => {
   return (
     <section id="contact" className="contact">
       <h2>Contact Me</h2>
-      <p>Feel free to connect with me on GitHub, LinkedIn, or send me an email!</p>
+      <p>Feel free to connect with me on GitHub or LinkedIn!</p>
 
       <IconContext.Provider value={{ size: "40px", color: "white" }}>
         <div className="contact-icons">
